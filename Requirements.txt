@@ -1,0 +1,11 @@
+cv2
+numpy
+serial
+shutil
+multiprocessing
+pygame 2.0.1 
+pyfiglet
+glob
+time
+os
+sys 3.8.3
