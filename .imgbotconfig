@@ -1,1 +1,7 @@
+{
 
+ "schedule": "monthly"
+ "ignoredFiles": [  ]
+ "aggressiveCompression": false
+ "minKBReduced": 100
+ }
