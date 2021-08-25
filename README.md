@@ -1,7 +1,7 @@
+<img src="https://user-images.githubusercontent.com/67970026/130840485-4862ee4e-6e32-43c4-ae15-8612b234fd57.jpg" width="1080" height="440"/>
 
-<p><h1>Olfactory scent projection based on Color detection in video scenes and objects for spatial visualization<br>
-  <br>
- Anurag Nag Adoni <br>
+
+ <h1>Anurag Nag Adoni <br>
 UG Student of Mechatronics Engineering at Reva University </h1></p>
 
 <p><h3>Note:<br>
